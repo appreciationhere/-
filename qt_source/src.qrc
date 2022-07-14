@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>sky.jpeg</file>
+        <file>loongson.jpeg</file>
+        <file>loongson1.jpeg</file>
+    </qresource>
+</RCC>
